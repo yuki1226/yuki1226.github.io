@@ -19,3 +19,12 @@ a.sitetitle {
     height: 60px;
     background: url(/images/ohsoft_logo_shadow.png)no-repeat
 }
+
+#myNav {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 750px;
+    height: 60px;
+    background: blue;
+}
