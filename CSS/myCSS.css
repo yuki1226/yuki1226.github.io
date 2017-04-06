@@ -35,8 +35,12 @@ margin: 0;
 padding: 0;
 }
 
+
 .myMenu li {
 position: relative;
 float: left;
 display: block;
+height: 60px;
+line-height: 60px;
+margin-right: 20px;
 }
