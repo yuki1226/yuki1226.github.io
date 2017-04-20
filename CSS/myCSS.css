@@ -61,3 +61,12 @@ margin-right: 20px;
     padding: 0 10px;
     color: #7b0b14;
 }
+
+#mainContent {
+     clear:both;
+     width:1015px;
+     margin: 0 auto;
+     padding: 5px 10px 0;
+}
+
+
