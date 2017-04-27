@@ -93,3 +93,21 @@ margin-right: 20px;
      clear: both;
 }
 
+footer {
+     clear:both;
+     background:#fff;
+     width: 100%;
+}
+
+#myFooter {
+     width: 980px;
+     margin: 0 auto;
+     padding: 40px 10px;
+}
+
+.col_4{
+     width: 180px;
+     float: left;
+     margin: 0 30px;
+}
+
