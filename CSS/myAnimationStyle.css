@@ -1,0 +1,22 @@
+header{
+    clear:both;
+}
+
+.left{
+    float:left;
+}
+
+.center{
+    width:500px;
+    margin:0 auto;
+    text-align:center;
+    display:inline-block;
+}
+
+.right{
+   float:right;
+}
+
+footer{
+   clear:both;
+}
