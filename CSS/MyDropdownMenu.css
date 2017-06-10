@@ -1,8 +1,8 @@
-.w3-container, .w3-panel {
+.w3-container{
     padding: 10em 16px;
 }
 
-.w3-dropdown-hover:first-child, .w3-dropdown-click:hover {
+.w3-dropdown-hover{
     background-color: #fff;
     color: #000;
 }
