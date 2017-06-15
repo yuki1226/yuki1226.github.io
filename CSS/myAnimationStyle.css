@@ -30,5 +30,16 @@ footer{
     float: left;
     margin: 20px 0px;
     border-radius:8px;
+    position:relative;
+    animation:myAnimateDiv 5s 1;
+}
+
+@keyframes myAnimateDiv{
+    0%{transform:rotate(0deg);left:0px;}
+    25%{transform:rotate(20deg);left:0px;}
+    50%{transform:rotate(0deg);right:0px;}
+    55%{transform:rotate(0deg);right:0px;}
+    70%{transform:rotate(0deg);right:0px;background:#ccaec6;}
+    100%{transform:rotate(-360deg);left:0px;}
 }
     
