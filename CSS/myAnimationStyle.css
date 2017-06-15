@@ -21,15 +21,16 @@ footer{
    clear:both;
 }
 
-#animateDiv{
-    background:#09beb7;
-    color:white;
+#animationDiv {
+    background: #CDDC39;
+    color: white;
     font-size: 20px;
     font-weight: bolder;
-    padding:10px;
+    padding: 10px;
     float: left;
     margin: 20px 0px;
-    border-radius:8px;
+    border-radius: 8px;
+}
     position:relative;
     animation:myAnimateDiv 5s infinite;
 }
