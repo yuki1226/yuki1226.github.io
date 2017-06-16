@@ -36,6 +36,7 @@ footer{
 @keyframes myAnimateDiv{
     0%{transform: rotate(0deg);left:0px;}
    25%{transform: rotate(20deg);left:100px;}
+   30%{transform: rotate(0edg);left:100px;}
    50%{transform: rotate(0deg);left:800px;}
    55%{transform: rotate(0deg);left:800px;}
    70%{transform: rotate(0deg);left:800px;background:#a07cce;}
