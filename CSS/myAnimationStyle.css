@@ -26,7 +26,9 @@ footer{
     font-size: 20px;
     font-weight: bolder;
     padding: 10px;
+    position: relative;
     float: left;
     margin: 20px 0px;
     border-radius: 8px;
+    animation: myAnimateDiv 5s 1;
 }
