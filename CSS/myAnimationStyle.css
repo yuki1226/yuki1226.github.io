@@ -21,12 +21,12 @@ footer{
 }
 
 #animateDiv {
+    width:40px;
     background: #d69cca;
     color: white;
     font-size: 20px;
     font-weight: bolder;
     padding: 10px;
-    float: left;
     margin: 20px 0px;
     border-radius: 8px;
     position: relative;
@@ -36,8 +36,8 @@ footer{
 @keyframes myAnimateDiv{
     0%{transform: rotate(0deg);left:0px;}
    25%{transform: rotate(20deg);left:100px;}
-   50%{transform: rotate(0deg);right:100px;}
-   55%{transform: rotate(0deg);right:0px;}
-   70%{transform: rotate(0deg);right:0px;background:#a07cce;}
+   50%{transform: rotate(0deg);left:800px;}
+   55%{transform: rotate(0deg);left:800px;}
+   70%{transform: rotate(0deg);left:800px;background:#a07cce;}
   100%{transform: rotate(-360deg);left:0px;}
 }
