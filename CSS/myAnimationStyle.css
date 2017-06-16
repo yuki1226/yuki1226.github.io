@@ -33,7 +33,7 @@ footer{
     animation: myAnimateDiv 5s 1;
 }
 
-@keyframe myAnimationDiv{
+@keyframes myAnimationDiv{
     0%{transform:rotate(0deg);left:0px;}
    25%{transform:rotate(20deg);left:0px;}
    50%{transform:rotate(0deg);left:500px;}
